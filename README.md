@@ -19,3 +19,5 @@ http://www.strivetogether.org/
 Team Economics - Mario
 
 Team Ethnics - Thuy
+
+Team Gender - Josh

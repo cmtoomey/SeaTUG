@@ -1,4 +1,4 @@
-#War of the TUGs instructions
+﻿#War of the TUGs instructions
 ###You will find 4 files this repository. The Ohio School Data 2014 file is the main file. The other files can also be used.
 <br>
 #####Data Notes on the OhioSchoolData2014.xlsx file.
@@ -15,3 +15,5 @@
 
 The client is part of the Strive Together Partnership program:
 http://www.strivetogether.org/
+
+Team Economics - Mario
